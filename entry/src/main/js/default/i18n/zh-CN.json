@@ -1,0 +1,14 @@
+{
+  "strings": {
+    "hello": "您好",
+    "world": "世界",
+    "button_start_text": "开始比赛",
+    "input_a_placeholder_text": "A队",
+    "input_b_placeholder_text": "B队",
+    "button_reset_text": "重置",
+    "button_undo_text": "撤销",
+    "dialog_reset_message": "重置比分？",
+    "dialog_positive_button_text": "确认",
+    "dialog_negative_button_text": "取消"
+  }
+}

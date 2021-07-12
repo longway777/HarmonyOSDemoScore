@@ -1,0 +1,14 @@
+{
+  "strings": {
+    "hello": "Hello",
+    "world": "World",
+    "button_start_text": "Start Game",
+    "input_a_placeholder_text": "Team A",
+    "input_b_placeholder_text": "Team B",
+    "button_reset_text": "Reset",
+    "button_undo_text": "Undo",
+    "dialog_reset_message": "Reset Score?",
+    "dialog_positive_button_text": "Confirm",
+    "dialog_negative_button_text": "Cancel"
+  }
+}
